@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working on **AI Summarizer Website**
+- 🔭 I’m currently working on **FoodiesVilla**
 
 - 🌱 I’m currently learning **Back-End Development**
 
