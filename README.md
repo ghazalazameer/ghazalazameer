@@ -19,8 +19,9 @@
 
 ## 🛠️ Languages and Tools
 
+<h3 align="center">Programming Languages</h3>
+
 <div align="center">
-  <!-- Coding Languages -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
@@ -38,8 +39,9 @@
   </a>
 </div>
 
+<h3 align="center">Frontend Technologies</h3>
+
 <div align="center">
-  <!-- Frontend Languages -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
@@ -48,8 +50,9 @@
   </a>
 </div>
 
+<h3 align="center">Backend Technologies</h3>
+
 <div align="center">
-  <!-- Backend Languages -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
@@ -61,8 +64,9 @@
   </a>
 </div>
 
+<h3 align="center">Databases</h3>
+
 <div align="center">
-  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
@@ -74,8 +78,9 @@
   </a>
 </div>
 
+<h3 align="center">Frameworks and Libraries</h3>
+
 <div align="center">
-  <!-- Frameworks -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>
