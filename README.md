@@ -81,9 +81,17 @@
 
    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalazameer&show_icons=true&locale=en&layout=compact" alt="ghazalazameer" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&locale=en" alt="ghazalazameer" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalazameer&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer&" alt="ghazalazameer" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer" alt="GitHub Streak" />
+</p>
 
