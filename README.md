@@ -3,8 +3,7 @@
 
 <p align="center">
   🔭 I’m currently working on <strong>FoodiesVilla</strong><br/>
-  🌱 I’m currently learning <strong>Back-End Development</strong><br/>
-  💬 Ask me about <strong>Web Development</strong><br/>
+  🌱 I’m currently learning <strong>Full-Stack Development</strong><br/>
 </p>
 
 <h3 align="center">Connect with me:</h3>
