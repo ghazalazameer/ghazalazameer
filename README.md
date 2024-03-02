@@ -109,6 +109,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
     <img src="https://www.canva.com/favicon.ico" alt="Canva" width="40" height="40"/>
   </a>
+</div>
 
 
 ## 📊 GitHub Stats
