@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/ghazalazameer/ghazalazameer/blob/main/assets/banner.png" alt="Banner" />
-</p>
-
 <h1 align="center">Hello, I'm Ghazala Zameer! 👋</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 
