@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/ghazala-zameer-055bb2246"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<p align="center">## 🛠️ Languages and Tools</p>
 
 <div align="center">
   <!-- Coding Languages -->
@@ -90,7 +90,7 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
+<p align="center">## 📊 GitHub Stats</p>
 
 <div align="center">
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalazameer&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
