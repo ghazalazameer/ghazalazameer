@@ -2,9 +2,13 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
-  🔭 I’m currently working on <strong>FoodiesVilla</strong><br/>
-  🌱 I’m currently learning <strong>Full-Stack Development</strong><br/>
+  🔭 Currently crafting delicious experiences at <strong>FoodiesVilla</strong><br/>
+  🌱 Constantly sharpening my skills in <strong>Full-Stack Development</strong><br/>
+  🚀 Excited to contribute to the ever-evolving web development landscape<br/>
+  📚 Committed to lifelong learning and personal growth in the realm of web development<br/>
+  ☕️ Coffee <3 
 </p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
