@@ -93,25 +93,25 @@
 
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Visual Studio Code" width="120" height="40"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="GitHub" width="120" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Git" width="120" height="40"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Postman" width="120" height="40"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Oracle" width="120" height="40"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Google Colab" width="120" height="40"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.canva.com/favicon.ico" alt="Canva" width="80" height="60"/>
+    <img src="NEW_IMAGE_URL" alt="Canva" width="120" height="40"/>
   </a>
 </div>
 
