@@ -40,25 +40,25 @@
 
 <div align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="80" height="60"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="80" height="60"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="80" height="60"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="80" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="60"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="80" height="60"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="80" height="60"/>
   </a>
 </div>
 
@@ -66,13 +66,13 @@
 
 <div align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="80" height="60"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="80" height="60"/>
   </a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="60"/>
   </a>
 </div>
 
@@ -93,28 +93,27 @@
 
 <div align="center">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio Code" width="80" height="60"/>
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="60"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="60"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="60"/>
   </a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="80" height="60"/>
   </a>
   <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40"/>
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="80" height="60"/>
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.canva.com/favicon.ico" alt="Canva" width="40" height="40"/>
+    <img src="https://www.canva.com/favicon.ico" alt="Canva" width="80" height="60"/>
   </a>
 </div>
-
 
 ## 📊 GitHub Stats
 
