@@ -16,6 +16,8 @@
 <a href="https://www.linkedin.com/in/ghazala-zameer-055bb2246"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+
+## 💻 Languages and Tools 🔧
 <h3 align="center">Programming Languages</h3>
 
 <div align="center">
