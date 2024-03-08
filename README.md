@@ -71,14 +71,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical
-  <p>
-    <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghazalazameer&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
-  </p>
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer&theme=radical&hide_border=false)
+ <p>
+  <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghazalazameer&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
+</p>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalazameer&theme=radical&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer&theme=radical&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalazameer&theme=radical&layout=compact)
+
+<a href="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&theme=radical">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&theme=radical">
+</a>
+
 </div>
 
 
