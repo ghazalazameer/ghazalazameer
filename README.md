@@ -71,9 +71,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghazalazameer&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer&theme=radical&hide_border=false)
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer" alt="GitHub Streak" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kashifmehdi&theme=radical&size_weight=0.5&count_weight=0.5)
 </div>
