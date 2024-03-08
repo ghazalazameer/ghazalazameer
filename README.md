@@ -71,6 +71,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  https://github-readme-stats.vercel.app/api?username=kashifmehdi&show_icons=true&theme=radical
   <p>
     <a href="#"><img alt="stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ghazalazameer&theme=radical&include_all_commits=true&count_private=true&include_pulls=true"></a>
   </p>
