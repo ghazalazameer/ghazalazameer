@@ -57,6 +57,14 @@
 
 </div>
 
+<h3 align="center">Cloud Hosting</h3>
+
+<div align="center">
+ <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
+ <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+</div>
+
+
 <h3 align="center">Development Tools</h3>
 
 <div align="center">
