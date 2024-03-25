@@ -35,6 +35,7 @@
 <img src="https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 <img src="https://img.shields.io/badge/Tailwind_CSS%20-%231a202c.svg?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
 <img src="https://img.shields.io/badge/SASS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SASS">
+<img src="https://img.shields.io/badge/SCSS%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS">
 <img src="https://img.shields.io/badge/Next.js%20-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
 <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
