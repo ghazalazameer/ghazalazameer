@@ -2,8 +2,8 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
+  🌐 Currently working on the TradeHub project, a full-stack endeavor utilizing the MERN (MongoDB, Express.js, React.js, Node.js) stack.
   🌱 Constantly sharpening my skills in <strong>Full-Stack Development</strong><br/>
-  🚀 Excited to contribute to the ever-evolving web development landscape<br/>
   📚 Committed to lifelong learning and personal growth in the realm of web development<br/>
   ☕️ Coffee <3 
 </p>
