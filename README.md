@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
-  🌐 Currently working on the TradeHub project, a full-stack endeavor utilizing the MERN Stack.<br/>
+  🌐 Currently working on the <strong>TradeHub</strong>, a full-stack endeavor utilizing the MERN Stack.<br/>
   🌱 Constantly sharpening my skills in <strong>Full-Stack Development.</strong><br/>
   📚 Committed to lifelong learning and personal growth in the realm of web development.<br/>
   ☕️ Coffee <3 
