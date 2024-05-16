@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
-  🌐 Currently working on <strong>TradeHub</strong>, a full-stack endeavor utilizing the React and Next.js.<br/>
+  🌐 Currently working on <strong>TradeHub</strong>, a full-stack endeavor utilizing <b>React</b> and <b>Next.js</b>.<br/>
   🌱 Constantly sharpening my skills in <strong>Full-Stack Development.</strong><br/>
   📚 Committed to lifelong learning and personal growth in the realm of web development.<br/>
   ☕️ Coffee <3 
