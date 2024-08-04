@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
-  Constantly sharpening my skills in <strong>Web Development.</strong><br/>📚
+  Constantly sharpening my skills in <strong>Web Development.</strong>📚<br/>
 </p>
 
 
