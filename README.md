@@ -2,9 +2,7 @@
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <p align="center">
-  🌱 Constantly sharpening my skills in <strong>Full-Stack Development.</strong><br/>
-  📚 Committed to lifelong learning and personal growth in the realm of web development.<br/>
-  ☕️ Coffee <3 
+  Constantly sharpening my skills in <strong>Web Development.</strong><br/>📚
 </p>
 
 
