@@ -1,11 +1,6 @@
 <h1 align="center">Hello, I'm Ghazala Zameer! 👋</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 
-<p align="center">
-  Constantly sharpening my skills in <strong>Web Development.</strong>📚<br/>
-</p>
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
  <a href="mailto:zameerghazala20@gmail.com"><img src="https://img.shields.io/badge/-Email-ff5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
