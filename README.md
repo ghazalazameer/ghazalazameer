@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Ghazala Zameer! 👋</h1>
+<h1 align="center">Hey, I'm Ghazala Zameer! 👋</h1>
 <h3 align="center">Computer Science Enthusiast</h3>
 
 <h3 align="center">Connect with me:</h3>
