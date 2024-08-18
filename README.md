@@ -1,4 +1,4 @@
-## 💻 Languages and Tools 🔧
+## 💻 Languages and Tools 
 <h3 align="left">Programming Languages</h3>
 
 <div align="left">
