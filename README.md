@@ -64,10 +64,10 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ghazalazameer&theme=radical&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalazameer&theme=radical&layout=compact)
 
 <a href="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&theme=radical">
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ghazalazameer&show_icons=true&theme=radical">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghazalazameer&theme=radical&layout=compact)
 </a>
 
 </div>
